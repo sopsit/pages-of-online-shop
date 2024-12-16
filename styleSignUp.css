@@ -1,0 +1,103 @@
+
+a:visited {
+    color: rgba(110,84,181,255);
+}
+
+.header1 {
+    position: absolute;
+    left: 1100px; /* X-coordinate */
+    top: 100px;  /* Y-coordinate */
+    color: rgb(255, 255, 255);
+    font-size: 54px;
+}
+
+.header2 {
+    position: absolute;
+    left: 1110px; /* X-coordinate */
+    top: 220px;  /* Y-coordinate */
+    color: rgba(255, 255, 255, 0.651);
+    font-size: 20px;
+}
+.buttm1 {
+    position: absolute;
+    left: 1100px; /* X-coordinate */
+    top: 700px;  /* Y-coordinate */
+    color: rgb(255, 255, 255);
+    width: 520px;
+    height: 60px; 
+    border-radius: 10px;
+    font-size: 18px; 
+    background-color: rgba(110,84,181,255);
+    border: none;
+}
+.input1 {
+    position: absolute;
+    left: 1100px; /* X-coordinate */
+    top: 320px;  /* Y-coordinate */
+    color: rgb(255, 255, 255);
+    width: 240px;  /* Set width */
+    height: 60px;  /* Set height */
+    border-radius: 10px; 
+    background-color: rgba(59,54,76,255);
+    border: none;
+    font-size: 20px;
+    padding-left: 10px ;
+
+}
+input:focus-visible {
+    border: 1.5px solid #ccc;
+    border-color: rgb(148, 67, 224);
+}
+
+.input2 {
+    position: absolute;
+    left: 1380px; /* X-coordinate */
+    top: 320px;  /* Y-coordinate */
+    color: rgb(255, 255, 255);
+    width: 240px;  /* Set width */
+    height: 60px;  /* Set height */
+    border-radius: 10px; 
+    background-color: rgba(59,54,76,255);
+    border: none;
+    font-size: 20px;
+    padding-left: 10px ; 
+ 
+}
+
+.input3 {
+    position: absolute;
+    left: 1100px; /* X-coordinate */
+    top: 420px;  /* Y-coordinate */
+    color: rgb(255, 255, 255);
+    width: 520px;  /* Set width */
+    height: 60px;  /* Set height */
+    border-radius: 10px; 
+    background-color: rgba(59,54,76,255);
+    border: none;
+    font-size: 20px;
+    padding-left: 10px ; 
+
+}
+
+.input4 {
+    position: absolute;
+    left: 1100px; /* X-coordinate */
+    top: 520px;  /* Y-coordinate */
+    color: rgb(255, 255, 255);
+    width: 520px;  /* Set width */
+    height: 60px;  /* Set height */
+    border-radius: 10px; 
+    background-color: rgba(59,54,76,255);
+    border: none;
+    font-size: 20px;
+    padding-left: 10px ; 
+}
+
+.imag {
+    position: absolute;
+    left: 80px; /* X-coordinate */
+    top: 40px;  /* Y-coordinate */
+    width: 850px;
+    height: 850px;
+    border-radius: 20px; 
+}
